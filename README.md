@@ -9,3 +9,15 @@ For any other info please do not hesitate to write to me...<br>
 info@bearddeveloper.it <br>
 www.bearddeveloper.it <br>
 www.instagram.com/beard.dev <br>
+
+## Browser Support
+* Chrome 
+* Edge 
+* Firefox 
+* Internet Explorer 11
+* Opera 
+* Safari
+
+## License
+
+The code is available under the [MIT license](LICENSE.txt).
